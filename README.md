@@ -68,7 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:Jeffy Brailin T
 RegisterNumber: 212223040076
- 
+``` 
 **Logic symbol**
 ![e1](https://github.com/jeffybrailin/study-of-basic-gates/assets/146911326/2b54d0cc-816b-4f39-a181-985d25bea8b7)
 
@@ -80,4 +80,4 @@ RegisterNumber: 212223040076
 
 **Result:**
 Thus the diffrent digital IC's are studied and truth table for different logic gates are verified
-```
+
